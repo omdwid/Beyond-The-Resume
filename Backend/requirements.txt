@@ -1,0 +1,9 @@
+langchain
+streamlit
+langchain-google-genai
+pillow
+pdfx
+pyGithub
+fastapi
+uvicorn
+python-multipart

@@ -1,0 +1,9 @@
+Resume analyzer and feedback 
+we can analyze the github from the user resume
+parameters like followers, stars, forks of repo, languages used by the user
+by using stars and forks of the repo, best repo of the user will be found
+We can also judge the uniqueness and impact of the projects that is mentioned by the user
+
+API Endpoints (FastAPI)
+send the resume and get the feedback
+send the user profile and get the github analysis (top project, languages used, followers)
